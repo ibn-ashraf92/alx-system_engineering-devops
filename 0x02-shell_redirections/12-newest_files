@@ -1,2 +1,2 @@
 #!/bin/bash
--type f | ls -lrt | head -n 11
+-type f | ls -lrt | head -n 10
