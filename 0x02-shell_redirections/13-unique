@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -k 2 list | uniq -u
+sort -k 2 list | uniq -u | sort
